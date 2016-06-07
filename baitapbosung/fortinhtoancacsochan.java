@@ -28,6 +28,7 @@ public class fortinhtoancacsochan {
 			tich = 1;// reset bien tich
 			thuong = 1;// reset bien thuong
 //test
+//test1
 		} while (i == 1);
 		input.close();
 	}
